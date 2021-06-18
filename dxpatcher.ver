@@ -1,1 +1,25 @@
 4.0.0.0|https://cdn.discordapp.com/attachments/377098367735562241/855070254827700264/PSO2NGS_Patcher.rar
+
+[v4.1] Change Log:
+- Fix File Downloader
+- Fix Random Exit (Connection Error)
+
+[v4.0] Change Log:
+- Add File Downloader
+- Add ability to Pause/Resume download
+- Fix PatchList file name
+
+[v3.0] Change Log:
+- Menerapkan pada PSO2+NGS JP maupun NGS-Only JP
+- Disable untuk NA/Global
+
+[v2.1] Change Log:
+- Fix error parsing patchlist
+
+[v2.0] Change Log:
+- One-tap button
+- Region selection (JP / NA)
+
+[v1.6] Change Log:
+- Improvement kecepatan pengecekan
+- Hide opsi utk pengecekan Ultra/Old (tidak terlalu berdampak)
