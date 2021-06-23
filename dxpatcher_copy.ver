@@ -1,0 +1,39 @@
+4.3.0.0|https://cdn.discordapp.com/attachments/295519814972342273/857297018464895060/PSO2NGS_DX_Patcher.rar
+
+Optional Update: None
+
+[v4.3] Change Log:
+- Add option to check 'Backup' folder from ELS
+- Add option to Deep Checking (Previous version already Deep Checking)
+- Able to ignore optional application update
+
+[v4.2] Change Log:
+- Purge outdated downloaded list
+- Fix Program Logic
+- Fix wrong number on "File downloaded" progress
+
+[v4.1] Change Log:
+- Require at least/minimum .NET Framework Runtime 4.6.2
+- Add application version checking
+- Fix File Downloader
+- Fix Random Exit (Connection Error)
+
+[v4.0] Change Log:
+- Add File Downloader
+- Add ability to Pause/Resume download
+- Fix PatchList file name
+
+[v3.0] Change Log:
+- Menerapkan pada PSO2+NGS JP maupun NGS-Only JP
+- Disable untuk NA/Global
+
+[v2.1] Change Log:
+- Fix error parsing patchlist
+
+[v2.0] Change Log:
+- One-tap button
+- Region selection (JP / NA)
+
+[v1.6] Change Log:
+- Improvement kecepatan pengecekan
+- Hide opsi utk pengecekan Ultra/Old (tidak terlalu berdampak)
