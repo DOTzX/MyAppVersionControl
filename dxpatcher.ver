@@ -1,4 +1,9 @@
-4.1.0.0|https://cdn.discordapp.com/attachments/295519814972342273/855515328955285554/PSO2NGS_DX_Patcher.rar
+4.2.0.0|https://cdn.discordapp.com/attachments/295519814972342273/857207133179084840/PSO2NGS_DX_Patcher.rar
+
+[v4.2] Change Log:
+- Purge outdated downloaded list
+- Fix Program Logic
+- Fix wrong number on "File downloaded" progress
 
 [v4.1] Change Log:
 - Require at least/minimum .NET Framework Runtime 4.6.2
