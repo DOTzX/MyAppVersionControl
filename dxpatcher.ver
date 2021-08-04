@@ -1,9 +1,12 @@
-4.3.0.0|https://cdn.discordapp.com/attachments/295519814972342273/857334423573102632/PSO2NGS_DX_Patcher.rar
+4.4.0.0|https://cdn.discordapp.com/attachments/295519814972342273/872424114617462804/PSO2NGS_DX_Patcher.rar
 
 Optional Update: None
 
+[v4.4] Change Log:
+- Add option to keep 'backup' folder up-to-date
+
 [v4.3] Change Log:
-- Add option to check 'Backup' folder from ELS
+- Add option to check 'backup' folder from ELS
 - Add option to Deep Checking (Previous version already Deep Checking)
 - Able to ignore optional application update
 
