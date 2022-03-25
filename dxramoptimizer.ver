@@ -1,1 +1,6 @@
-1.0.0.0|-
+1.1.0.0|https://drive.google.com/file/d/1Ujr6cHyQo6QhdOb3NL1YU8v4tm4oM0z5/view
+
+[v1.1] Change Log:
+- Add context menu on trayicon
+- Add Exit button
+- Fix graph/chart crash
