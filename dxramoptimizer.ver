@@ -1,6 +1,12 @@
-1.1.0.0|https://drive.google.com/file/d/1Ujr6cHyQo6QhdOb3NL1YU8v4tm4oM0z5/view
+1.2.0.0|https://drive.google.com/file/d/1Ujr6cHyQo6QhdOb3NL1YU8v4tm4oM0z5/view
+
+[v1.2] Change Log:
+- Add option 'Every Interval' on Options.
+- Add 'Check Free Memory every' on Options.
+- Fix reversed Auto-Optimize check (below N-sized is reversed).
+- Fix behavior of 'Automatically open apps when Windows Startup' on Options. (not checking app exe properly location)
 
 [v1.1] Change Log:
-- Add context menu on trayicon
-- Add Exit button
-- Fix graph/chart crash
+- Add context menu on trayicon.
+- Add Exit button.
+- Fix graph/chart crash.
