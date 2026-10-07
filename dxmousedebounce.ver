@@ -1,0 +1,9 @@
+1.2.0.0|https://drive.google.com/file/d/1ebxVdSAA1fJ1yy6T3lDDcBQd83Gsd2nH/view
+
+[v1.2] Change Log:
+- New: Check for updates
+- New: Save debounce ms after selection
+- Fix startup issue
+
+[v1.1] Change Log:
+- Fix startup issue
